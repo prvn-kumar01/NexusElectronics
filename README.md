@@ -717,8 +717,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Nexus Electronics was created with ❤️ by:
 
-- **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+- **Praveen Kumar** - [prvn-kumar01](https://github.com/prvn-kumar01)
+
 
 ---
 
